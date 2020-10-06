@@ -1,2 +1,4 @@
 Lista de Compras
-Coca-Cola
+Coca-Cola 1,5lt
+Barra de chocolate
+Leite 1lt
